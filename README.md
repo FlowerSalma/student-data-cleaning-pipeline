@@ -152,5 +152,5 @@ skills:
 
 ## Author
 
-Salma Hasannejad
+Salma Hasannejad\
 Bowling Green State University
