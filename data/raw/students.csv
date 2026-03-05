@@ -1,0 +1,6 @@
+student_id,name,country,cohort
+S001,Alice,USA,2025
+S002,Bob,U.S.,2025
+S002,Bob,United States,2025
+S003,Carla,Canada,2026
+S004,David,usa,2026

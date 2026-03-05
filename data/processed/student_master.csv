@@ -1,0 +1,5 @@
+student_id,name,country,cohort,GPA,avg_grade,courses_taken,at_risk
+S001,Alice,usa,2025,3.6,87.5,2,0
+S002,Bob,usa,2025,2.8,70,1,1
+S003,Carla,canada,2026,NA,NA,1,NA
+S004,David,usa,2026,NA,60,1,NA
