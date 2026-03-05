@@ -153,4 +153,4 @@ skills:
 ## Author
 
 Salma Hasannejad\
-Bowling Green State University
+Mathematics & Data Science
