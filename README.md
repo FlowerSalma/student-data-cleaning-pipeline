@@ -152,6 +152,5 @@ skills:
 
 ## Author
 
-Salma Hasannejad\
-PhD Student -- Mathematics & Statistics\
+Salma Hasannejad
 Bowling Green State University
